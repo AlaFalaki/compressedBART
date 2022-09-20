@@ -1,8 +1,8 @@
-
-<img src="https://raw.githubusercontent.com/AlaFalaki/compressedBART/main/figures/proposed.png" width="400"/>
-
 compressedBART
 ===
+
+<img src="https://raw.githubusercontent.com/AlaFalaki/compressedBART/main/figures/proposed.png" width="700"/>
+
 
 ### A Robust Approach to Fine-tune Pre-trained Transformer-based models for Text Summarization through Latent Space Compression
 

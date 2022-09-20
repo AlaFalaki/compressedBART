@@ -79,7 +79,7 @@ You will find a CSV file containing the generated summaries in the `results` dir
 ## Citations
 If you wish to cite the paper, you may use the following:
 ```
-@paper
+The paper is accepted in the ICMLA22 conference.
 ```
 
 GL!

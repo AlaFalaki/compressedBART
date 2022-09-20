@@ -1,4 +1,6 @@
 
+<img src="https://raw.githubusercontent.com/AlaFalaki/compressedBART/main/figures/proposed.png" width="400"/>
+
 compressedBART
 ===
 

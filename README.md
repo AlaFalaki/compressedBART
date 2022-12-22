@@ -1,10 +1,8 @@
-compressedBART
+compressedBART: A Robust Approach to Fine-tune Pre-trained Transformer-based models for Text Summarization through Latent Space Compression
 ===
 
 <img src="https://raw.githubusercontent.com/AlaFalaki/compressedBART/main/figures/proposed.png" width="700"/>
 
-
-### A Robust Approach to Fine-tune Pre-trained Transformer-based models for Text Summarization through Latent Space Compression
 
 This repository is the official PyTorch implementation of the mentioned paper that is consists of:
 

@@ -77,7 +77,15 @@ You will find a CSV file containing the generated summaries in the `results` dir
 ## Citations
 If you wish to cite the paper, you may use the following:
 ```
-The paper is accepted in the ICMLA22 conference.
+@INPROCEEDINGS{10069092,
+  author={Falaki, Ala Alam and Gras, Robin},
+  booktitle={2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)}, 
+  title={A Robust Approach to Fine-tune Pre-trained Transformer-based models for Text Summarization through Latent Space Compression}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={160-167},
+  doi={10.1109/ICMLA55696.2022.00030}}
 ```
 
 GL!

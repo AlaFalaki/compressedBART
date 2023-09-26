@@ -15,8 +15,8 @@ The results using the CNN/DM dataset.
 
 | Latent Space Size | R-1 | R-2 | R-3 | R-L | Checkpoint
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 504 | 0.401 | 0.182 | 0.106 | 0.375 | [link]([https://uwin365-my.sharepoint.com/:u:/g/personal/alamfal_uwindsor_ca/Ef42Eldx5HBCs9yXZ_xXAwgBS8-KbRMjvQZ8KG9AZuu60w?e=g8KUnZ](https://uwin365-my.sharepoint.com/:u:/g/personal/alamfal_uwindsor_ca/Ef42Eldx5HBCs9yXZ_xXAwgBS8-KbRMjvQZ8KG9AZuu60w?e=tSNuWg)) |
-| 384 | 0.400 | 0.181 | 0.105 | 0.374 | [link]([https://uwin365-my.sharepoint.com/:u:/g/personal/alamfal_uwindsor_ca/EcFD97dBoj9AjhbehFCZv5kBJ_nIKoABnhJ-PhJooNDGSw?e=V9n3DL](https://uwin365-my.sharepoint.com/:u:/g/personal/alamfal_uwindsor_ca/EcFD97dBoj9AjhbehFCZv5kBJ_nIKoABnhJ-PhJooNDGSw?e=YszTpy)) |
+| 504 | 0.401 | 0.182 | 0.106 | 0.375 | [link](https://uwin365-my.sharepoint.com/:u:/g/personal/alamfal_uwindsor_ca/Ef42Eldx5HBCs9yXZ_xXAwgBS8-KbRMjvQZ8KG9AZuu60w?e=tSNuWg) |
+| 384 | 0.400 | 0.181 | 0.105 | 0.374 | [link](https://uwin365-my.sharepoint.com/:u:/g/personal/alamfal_uwindsor_ca/EcFD97dBoj9AjhbehFCZv5kBJ_nIKoABnhJ-PhJooNDGSw?e=YszTpy) |
 
 There is a minor difference between the two compression sizes. But, there is a great advantage in using 
 the 384 checkpoint since it is faster, and smaller. (Refer to the paper for more details)
